@@ -17,9 +17,12 @@ Este es un proyecto de conversor de monedas que permite convertir entre diferent
 - Intellij IDEA
 - Git 
 
-# Ejecucion 
-
-Basta con abrir el proyecto en el IDE y ejecutarlo.
+# Ejecucion y uso
+Basta con abrir el proyecto en el IDE 
+- Ejecuta el programa.
+- Selecciona la moneda original y la moneda de destino.
+- Ingresa la cantidad de dinero a convertir.
+- Obtén el resultado de la conversión
 
 # Configuración
 Antes de ejecutar el programa, asegúrate de tener instalado Java en tu sistema. Además, este proyecto utiliza la biblioteca Gson para el manejo de JSON, por lo que necesitarás agregarla a tu proyecto si aún no lo has hecho.
